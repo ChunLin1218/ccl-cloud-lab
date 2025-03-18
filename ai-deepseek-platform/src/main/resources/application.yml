@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: ai-deepseek-platform
+
+#deepseek API 密钥和端点
+deepseek:
+  api:
+    key: a
+    url: b
